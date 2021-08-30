@@ -10,8 +10,7 @@
         "ignored-file",
         "*.md"
       ],
-      "message": "chore(release): publish",
-      "registry": "https://github.com/memoer/lerna-tt.git"
+      "message": "chore(release): publish"
     }
   }
 }
