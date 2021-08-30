@@ -13,10 +13,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://github.com/memoer/lerna-tt.git"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "42c102bcdd873c1761891989d19bb7d59d4429f3"
 }
